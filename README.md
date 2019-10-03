@@ -1,4 +1,4 @@
-# wechat_clone
+# flutter_wechat
 
 A new Flutter project.
 
